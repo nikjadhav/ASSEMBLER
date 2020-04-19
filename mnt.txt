@@ -1,0 +1,6 @@
+MNT
+----------------------------
+MacroName	Macro_parameter_Total	Start-Index	End-Index
+---------------------------
+write_string			2		0		5
+
